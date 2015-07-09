@@ -1,0 +1,24 @@
+﻿{
+	"name": "RocketBull",
+	"description": "Rocketbull is a very  funny game",
+	"version": "1.0.0.0",
+	"launch_path": "/index.html",
+	"orientation": ["landscape"],
+	"icons": {
+		"16": "/icon-16.png",
+		"32": "/icon-32.png",
+		"128": "/icon-128.png",
+		"256": "/icon-256.png"
+	},
+	"developer": {
+		"name": "Dacorion",
+		"url": ""
+	},
+	"default_locale": "en",
+	"permissions": {
+		"storage": {
+			"description": "used for save games"
+		}
+	},
+	"fullscreen": "true"
+}
